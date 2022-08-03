@@ -1,4 +1,4 @@
-ody {
+body {
   background-color: #19191b;
   color: white;
   font-family: "Nunito Sans", sans-serif;
@@ -253,7 +253,7 @@ header {
   margin: 0;
 }
 
-.info-block__btn {
+.info-block_btn {
   background-color: #5454d4;
   color: white;
   border: none;
